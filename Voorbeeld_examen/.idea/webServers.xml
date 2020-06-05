@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eb33eade-6732-4692-a844-8b00365eb63e" name="examenwa2020" url="http://192.168.33.22/">
+        <fileTransfer accessType="SFTP" host="192.168.33.22" port="22" sshConfigId="06fdc164-d56b-447d-829c-71748a24719c" sshConfig="vagrant@192.168.33.22:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

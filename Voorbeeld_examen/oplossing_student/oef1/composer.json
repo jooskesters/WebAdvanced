@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "assets\\": "src/assets/",
+      "identifiable\\": "src/identifiable/",
+      "users\\": "src/users/"
+    }
+  }
+}
